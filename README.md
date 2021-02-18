@@ -11,6 +11,12 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gh-BumsooKim/Hand-Based-VFX-HoloLens2)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gh-BumsooKim/Hand-Based-VFX-HoloLens2)
 
+### Reference
+
+\- **[What is HoloLens2](https://www.microsoft.com/en-us/hololens/)**<br>
+\- **[What is VFX](https://en.wikipedia.org/wiki/Visual_effects)**<br>
+\- **[What is Unity](https://unity.com/)**
+
 ## Architecture
 
 
